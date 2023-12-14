@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YrfauF6UvTtGrpxXXlza4LxWekG3mfEsf0Zr7VBtNsPNcC01jYdHmdiULyaf0Ky9xk3kXzRqnT5VsgbkfsHy8w==",
+  "success": true,
+  "projectFilePath": "C:\\POEE\\IFSPReceita\\IFSPReceita\\IFSPReceita.Service\\IFSPReceita.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anpac\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\anpac\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\anpac\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

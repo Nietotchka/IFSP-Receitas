@@ -1,0 +1,15 @@
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\bin\Debug\net7.0\IFSPReceita.Service.deps.json
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\bin\Debug\net7.0\IFSPReceita.Service.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\bin\Debug\net7.0\IFSPReceita.Service.pdb
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\IFSPReceita.Service.csproj.AssemblyReference.cache
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\IFSPReceita.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\IFSPReceita.Service.AssemblyInfoInputs.cache
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\IFSPReceita.Service.AssemblyInfo.cs
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\IFSPReceita.Service.csproj.CoreCompileInputs.cache
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\IFSPReceita.Service.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\refint\IFSPReceita.Service.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\IFSPReceita.Service.pdb
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\ref\IFSPReceita.Service.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\bin\Debug\net7.0\IFSPReceita.Domain.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\bin\Debug\net7.0\IFSPReceita.Domain.pdb
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Service\obj\Debug\net7.0\IFSPReceita.Service.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\bin\Debug\net7.0\IFSPReceita.Repository.deps.json
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\bin\Debug\net7.0\IFSPReceita.Repository.runtimeconfig.json
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\bin\Debug\net7.0\IFSPReceita.Repository.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\bin\Debug\net7.0\IFSPReceita.Repository.pdb
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.csproj.AssemblyReference.cache
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.AssemblyInfoInputs.cache
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.AssemblyInfo.cs
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.csproj.CoreCompileInputs.cache
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\refint\IFSPReceita.Repository.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.pdb
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.genruntimeconfig.cache
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\ref\IFSPReceita.Repository.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\bin\Debug\net7.0\IFSPReceita.Domain.dll
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\bin\Debug\net7.0\IFSPReceita.Domain.pdb
+C:\POEE\IFSPReceita\IFSPReceita\IFSPReceita.Repository\obj\Debug\net7.0\IFSPReceita.Repository.csproj.CopyComplete
