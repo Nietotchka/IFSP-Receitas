@@ -1,1 +1,1 @@
-Server=localhost;Port=3306;Database=IFSPReceitas;Uid=root;Pwd=
+Server=localhost;Port=3306;Database=IFSPReceitas2;Uid=root;Pwd=

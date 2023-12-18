@@ -71,8 +71,9 @@ namespace IFSPStore.App.Infra
                 config.CreateMap<Paciente, PacienteModel>()
                     .ForMember(d => d.Id, d => d.MapFrom(x => x.Id));
                 config.CreateMap<Receita, ReceitaModel>()
-                    .ForMember(d => d.Id, d => d.MapFrom(x => x.Id));
-                    
+                    .ForMember(d => d.Medico, d => d.MapFrom(x => x.Medico.Nome))
+                    .ForMember(d => d.Paciente, d => d.MapFrom(x => x.Paciente.Nome))
+                     .ForMember(d => d.Medicamento, d => d.MapFrom(x => x.Medicamento.Nome));
             }).CreateMapper());
 
             ServicesProvider = Services.BuildServiceProvider();

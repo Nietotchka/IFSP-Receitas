@@ -127,15 +127,14 @@ namespace IFSPReceitas.App.Cadastro
 
         protected override void CarregaGrid()
         {
-            receitas = _receitaService.Get<ReceitaModel>().ToList();
+            receitas = _receitaService.Get<ReceitaModel>(new[] { "Medico","Paciente","Medicamento" }).ToList();
             dataGridViewConsulta.DataSource = receitas;
-            dataGridViewConsulta.Columns["Nome"]!.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+
         }
 
         protected override void CarregaRegistro(DataGridViewRow? linha)
         {
             txtId.Text = linha?.Cells["Id"].Value.ToString();
-            cboNomeMed.Text = linha?.Cells["Nome"].Value.ToString();
             txtValidade.Text = linha?.Cells["Validade"].Value.ToString();
             //cboMedico.SelectedValue = linha?.Cells["MedicoId"].Value;
             //cboPaciente.SelectedValue = linha?.Cells["PacienteId"].Value;

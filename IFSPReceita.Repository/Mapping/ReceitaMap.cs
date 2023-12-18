@@ -24,10 +24,6 @@ namespace IFSPReceita.Repository.Mapping
             builder.Property(prop => prop.Validade)
                 .IsRequired()
                 .HasColumnType("datetime");
-
-            builder.Property(prop => prop.Nome)
-                .IsRequired()
-                .HasColumnType("varchar(100)");
         }
     }
 }

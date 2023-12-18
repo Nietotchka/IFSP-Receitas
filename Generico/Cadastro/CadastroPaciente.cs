@@ -63,7 +63,7 @@ namespace IFSPReceitas.App.Cadastro
                 Console.WriteLine("Número do Convênio inválido. Por favor, insira um número válido.");
             }
 
-             if (int.TryParse(txtCPF.Text, out int cpf))
+             if (UInt64.TryParse(txtCPF.Text, out var cpf))
              {
                  paciente.CPF = cpf;
              }

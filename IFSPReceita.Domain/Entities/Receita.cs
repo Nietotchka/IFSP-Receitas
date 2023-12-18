@@ -13,18 +13,16 @@ namespace IFSPReceita.Domain.Entities
         {
         }
 
-        public Receita(int id, DateTime data, DateTime validade, string nome) : base(id)
+        public Receita(int id, DateTime data, DateTime validade) : base(id)
         {
             Id = id;
             Data = data;
             Validade = validade;
-            Nome = nome;
         }
 
 
         public DateTime Data { get; set; }
         public DateTime Validade { get; set; }
-        public string Nome { get; set; }
         public Medico? Medico { get; set; }
         public Paciente? Paciente { get; set; }
         public Medicamento? Medicamento { get; set; }

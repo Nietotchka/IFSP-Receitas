@@ -11,10 +11,9 @@ namespace IFSPReceitas.App.Models
         public int Id { get; set; }
         public DateTime Data { get; set; }
         public DateTime Validade { get; set; }
-        public string Nome { get; set; }
         public string Medico { get; set; }
-
         public string Paciente { get; set; }
+        public string Medicamento { get; set; }
 
     }
 }

@@ -17,7 +17,7 @@ namespace IFSPReceitas.App.Models
         public int Telefone { get; set; }
         public string Convenio { get; set; }
         public int NumeroConvenio { get; set; }
-        public virtual int CPF { get; set; }
+        public virtual UInt64 CPF { get; set; }
 
     }
 }

@@ -14,7 +14,7 @@ namespace IFSPReceita.Domain.Entities
 
         }
 
-        public Paciente(int id, string? nome, string? email, string? endereco, int numero, string? bairro, int telefone, string? convenio, int numeroConvenio, int cpf) : base(id)
+        public Paciente(int id, string? nome, string? email, string? endereco, int numero, string? bairro, int telefone, string? convenio, int numeroConvenio, UInt64 cpf) : base(id)
         {
             Nome = nome;
             Email = email;
@@ -35,6 +35,6 @@ namespace IFSPReceita.Domain.Entities
         public int Telefone { get; set; }
         public string Convenio { get; set; }
         public int NumeroConvenio { get; set; }
-        public virtual int CPF { get; set; }
+        public virtual UInt64 CPF { get; set; }
     }
 }
